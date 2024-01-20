@@ -1,9 +1,12 @@
 spring:
   application:
-    name: "configServer"
+    name: "configserver"
+  profiles:
+    active: "git"
   cloud:
     config:
-      server:git:
+      server:
+        git:
           uri: "https://github.com/kennyowj961127/SpringBootConfigServer.git"
           default-label: "master"
           timeout: 5
