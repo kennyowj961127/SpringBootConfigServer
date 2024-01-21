@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 loans:
-  message: "Loans Producction Service"
+  message: "Loans Production Service - Webhook test"
   contactDetails:
     name: "Kenny Production "
     email: "kennyProd@gmail.com"
