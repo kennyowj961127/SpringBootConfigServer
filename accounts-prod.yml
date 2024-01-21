@@ -1,9 +1,9 @@
 build:
   version: "1.0"
 accounts:
-  message: "Accounts Prod Service from New Git Repo"
+  message: "Accounts Production Service"
   contactDetails:
-    name: "Kenny Prod - New Git Repo"
+    name: "Kenny Production"
     email: "{cipher}a513a4bca1f8887a1c72a4741743366bac3b3f00b8a5f177213126528d8cc302417109c632470cf8a85f712ca2e3e321"
   onCallSupport:
     - "123-456-7890"
