@@ -1,6 +1,6 @@
 build:
   version: "2.0"
-loans:
+cards:
   message: "Cards QA Service"
   contactDetails:
     name: "Kenny QA "
