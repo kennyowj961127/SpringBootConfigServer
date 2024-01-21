@@ -1,9 +1,9 @@
 build:
   version: "1.0"
 loans:
-  message: "Loans Prod Service"
+  message: "Loans Producction Service"
   contactDetails:
-    name: "Kenny Prod "
+    name: "Kenny Production "
     email: "kennyProd@gmail.com"
   onCallSupport:
     - "123-456-7890"
