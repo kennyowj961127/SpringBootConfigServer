@@ -1,9 +1,9 @@
 build:
   version: "1.0"
 accounts:
-  message: "Cards Prod Service"
+  message: "Cards Production Service"
   contactDetails:
-    name: "Kenny Prod "
+    name: "Kenny Production "
     email: "kennyProd@gmail.com"
   onCallSupport:
     - "123-456-7890"
