@@ -1,6 +1,6 @@
 build:
   version: "1.0"
-accounts:
+loans:
   message: "Cards Production Service"
   contactDetails:
     name: "Kenny Production "
